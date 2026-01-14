@@ -9,6 +9,7 @@ html{
 }
 body{
     font-family: 'Arimox', sans-serif;
+    color: #434834;
 }
 li{
     list-style: none;
@@ -62,7 +63,6 @@ header h1{
 }
 .info p{
     font-size: 48px;
-    color: #767A61;
     width: 1300px;
     text-align: center;
 }
@@ -73,7 +73,6 @@ header h1{
 .budapest h2{
     font-family: 'Aref Ruqaa', sans-serif;
     font-size: 140px;
-    color: #767A61;
     width: 1200px;
     margin-left: 8rem;
 }
@@ -106,7 +105,6 @@ header h1{
     margin: 20rem 8rem 13rem 8rem;
 }
 .b-foto1 p{
-    color: #767A61;
     font-size: 40px;
     width: 600px;
     text-align: right;
@@ -124,7 +122,6 @@ header h1{
     margin: 2rem 8rem 13rem 8rem;
 }
 .b-foto2 p{
-    color: #767A61;
     font-size: 40px;
     width: 600px;
     text-align: left;
@@ -142,7 +139,6 @@ header h1{
     margin: 2rem 8rem 13rem 8rem;
 }
 .b-foto3 p{
-    color: #767A61;
     font-size: 40px;
     width: 600px;
     text-align: right;
@@ -186,25 +182,12 @@ header h1{
     padding: 10px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .tanzania{
     margin-bottom: 13rem;
 }
 .tanzania h2{
     font-family: 'Aref Ruqaa', sans-serif;
     font-size: 140px;
-    color: #767A61;
     width: 1100px;
     margin-left: 8rem;
 }
@@ -237,7 +220,6 @@ header h1{
     margin: 20rem 8rem 13rem 8rem;
 }
 .t-foto1 p{
-    color: #767A61;
     font-size: 40px;
     width: 600px;
     text-align: left;
@@ -255,7 +237,6 @@ header h1{
     margin: 2rem 8rem 13rem 8rem;
 }
 .t-foto2 p{
-    color: #767A61;
     font-size: 40px;
     width: 600px;
     text-align: right;
@@ -273,7 +254,6 @@ header h1{
     margin: 2rem 8rem 13rem 8rem;
 }
 .t-foto3 p{
-    color: #767A61;
     font-size: 40px;
     width: 600px;
     text-align: left;
@@ -337,7 +317,6 @@ footer{
 }
 footer p{
     font-size: 30px;
-    color: #434834;
 }
 footer img{
     width: 60px;

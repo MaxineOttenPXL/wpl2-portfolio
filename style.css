@@ -9,6 +9,7 @@ html{
 }
 body{
     font-family: 'Arimox', sans-serif;
+    color: #434834;
 }
 li{
     list-style: none;
@@ -55,8 +56,8 @@ nav ul{
 }
 nav a{
     font-size: 30px;
-    color: #434834;
     text-decoration: none;
+    color: #434834;
 }
 a:hover{
     text-decoration: underline;
@@ -70,7 +71,6 @@ a:hover{
     font-size: 270px;
     font-weight: lighter;
     font-family: 'Aref Ruqaa', sans-serif;
-    color: #434834;
     width: 70%;
     position: absolute;
     top: 250px;
@@ -113,14 +113,12 @@ header p{
 }
 .richting h2{
     font-size: 64px;
-    color: #434834;
     text-align: center;
     margin-bottom: 5rem;
     width: 750px;
 }
 .richting p{
     font-size: 32px;
-    color: #434834;
     width: 1000px;
     text-align: center;
 }
@@ -136,7 +134,6 @@ header p{
 .vibes h2{
     font-size: 158px;
     font-family: 'Aref Ruqaa', sans-serif;
-    color: #434834;
     width: 50px;
     position: absolute;
     top: 2850px;
@@ -254,7 +251,6 @@ footer{
 }
 footer p{
     font-size: 30px;
-    color: #434834;
 }
 footer img{
     width: 60px;
@@ -277,5 +273,41 @@ footer img{
     width: 407px;
 }
 
+
+/* -- MOBILE -- */
+@media (max-width: 900px){
+    nav ul{
+        flex-direction: column;
+        gap: 2rem;
+    }
+    nav li{
+        text-align: right;
+    }
+    .bloem1, .bloem2, .bloem3, .bloem4 img{
+        display: none;
+    }
+    .groen-vlak {
+        display: none;
+    }
+    .portfolio h1{
+        font-size: 120px;
+        top: 450px;
+        left: 40px;
+        width: auto;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        padding: 7rem 0;
+    }
+    .info{
+        text-align: center;
+    }
+    .info p{
+        width: auto;
+    }
+
+}
 
 

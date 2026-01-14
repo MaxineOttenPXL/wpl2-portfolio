@@ -9,6 +9,7 @@ html{
 }
 body{
     font-family: 'Arimox', sans-serif;
+    color: #434834;
 }
 li{
      list-style: none;
@@ -35,8 +36,8 @@ nav ul{
 }
 nav a{
     font-size: 30px;
-    color: #434834;
     text-decoration: none;
+    color: #EAE3D3;
 }
 a:hover{
     text-decoration: underline;
@@ -70,7 +71,6 @@ header h1{
 }
 .talen h2{
     font-size: 64px;
-    color: #434834;
 }
 .sterren{
     display: flex;
@@ -84,7 +84,6 @@ header h1{
 }
 .vakken li{
     font-size:  40px;
-    color: #434834;
     padding-top: 3rem;
 }
 .talen img{
@@ -113,7 +112,6 @@ header h1{
 }
 .interesses h2{
     font-size: 60px;
-    color: #434834;
     padding-bottom: 6rem;
 }
 .icons{
@@ -125,7 +123,6 @@ header h1{
 }
 .tekst li{
     font-size: 40px;
-    color: #434834;
     list-style: none;
     padding-bottom: 8rem;
 }
@@ -153,7 +150,6 @@ header h1{
 }
 .werkervaring h2{
     font-size: 60px;
-    color: #434834;
     margin-bottom: 5rem;
 }
 .jobs{
@@ -174,7 +170,6 @@ header h1{
 .bakker h3, .bar h3, .magazijn h3{
     width: 241px;
     font-size: 30px;
-    color: #434834;
     text-align: center;
 }
 
@@ -219,7 +214,6 @@ header h1{
 }
 .vaardigheden h2{
     font-size: 60px;
-    color: #434834;
 }
 .vaardigheden img{
     width: 300px;
@@ -238,7 +232,6 @@ header h1{
 }
 .info-programma p{
     font-size: 40px;
-    color: #434834;
 }
 .sterren-programma{
     display: flex;
@@ -269,7 +262,6 @@ footer{
 }
 footer p{
     font-size: 30px;
-    color: #434834;
 }
 footer img{
     width: 60px;
