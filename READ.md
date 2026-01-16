@@ -36,3 +36,8 @@ Technische info
 - Gehost op Netlify
 - De site werkt op computer, tablet en mobiel
 
+Gebruikte bronnen
+- ChatGTP voor hulp bij het schrijven van teksten
+- Pexels.com voor gratis afbeeldingen
+- SVGrepository.com voor gratis iconen
+
