@@ -1,13 +1,13 @@
-<script type='js'>
+<script setup>
 
 </script>
 
 <template>
   <nav>
     <ul>
-      <li><a href="@/Skills.vue">Skills</a></li>
-      <li><a href="@/realisaties.vue">Realisaties</a></li>
-      <li><a href="@/Stage.vue">Buitenlandse stage</a></li>
+      <li><RouterLink to="/Skills">Skills</RouterLink></li>
+      <li><RouterLink to="/Realisaties">Realisaties</RouterLink></li>
+      <li><RouterLink to="/Stage">Buitenlandse Stage</RouterLink></li>
     </ul>
   </nav>
 </template>

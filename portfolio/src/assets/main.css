@@ -19,7 +19,19 @@
   padding: 0;
   box-sizing: border-box;
   font-family: var(--font-family-Arimo), sans-serif;
+  color: var(--dark-green);
+  list-style: none;
 }
 html{
     scroll-behavior: smooth;
+}
+.pijl-boven{
+  position: fixed;
+}
+.pijl-boven img{
+  position: absolute;
+  top: 950px;
+  left: 1770px;
+  width: 100px;
+  height: 100px;
 }
