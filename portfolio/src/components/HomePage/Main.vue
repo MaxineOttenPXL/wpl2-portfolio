@@ -15,7 +15,7 @@ import MainDesigner from "@/components/HomePage/Main-Designer.vue";
       <MainDesigner />
 
     <section class="button-skills">
-      <a href="@/Pages/Skills.vue">Skills</a>
+      <routerLink to="/skills" class="link-skills">Skills</routerLink>
     </section>
   </main>
 </template>
@@ -39,7 +39,7 @@ import MainDesigner from "@/components/HomePage/Main-Designer.vue";
   margin-bottom: 13rem;
 }
 
-.button-skills a{
+.link-skills{
   text-decoration: none;
   font-size: 128px;
   font-family: var(--font-family-aref), sans-serif;

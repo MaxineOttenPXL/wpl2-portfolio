@@ -20,7 +20,7 @@
   box-sizing: border-box;
   font-family: var(--font-family-Arimo), sans-serif;
   color: var(--dark-green);
-  list- style: none;
+  list-style: none;
 }
 html{
     scroll-behavior: smooth;

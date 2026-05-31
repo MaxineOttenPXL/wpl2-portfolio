@@ -16,7 +16,7 @@ const headerTitle = "WPL2"
   <div class="container">
     <section class="case">
       <h1>Project WPL2</h1>
-      <h2>beschrijving van de case</h2>
+      <h2>Beschrijving van de case</h2>
       <p>Onze case draait rond een klein juwelenbedrijf genaamd Pop And Clay, opgericht door Stéphanie Caelen. Sinds de start beheert zij haar onderneming volledig alleen. Ze staat zelf in voor het ontwerpen en maken van de juwelen, maar ook voor de verkoop, promotie en het onderhouden van haar merk. Haar passie en creativiteit zijn dan ook duidelijk terug te zien in haar producten en manier van werken.
         Tot nu toe verliep bijna alles via haar Instagramaccount. Via dit platform maakte ze reclame voor nieuwe collecties, verkocht ze haar juwelen en hield ze haar volgers op de hoogte van updates en nieuwe producten. In het begin werkte dit goed, maar naarmate het bedrijf groeide merkte Stéphanie dat Instagram alleen niet meer voldoende was om haar merk professioneel verder uit te bouwen. Daarom ging ze op zoek naar een team dat haar kon helpen met een nieuwe branding en een professionele website die beter aansloot bij de groei van haar onderneming.
         Samen zijn wij aan de slag gegaan met haar wensen en ideeën. Tijdens het project hielden we haar regelmatig op de hoogte van de vooruitgang. Haar enthousiaste feedback motiveerde ons om een eindresultaat te creëren dat perfect aansluit bij haar merk en visie.
@@ -86,6 +86,7 @@ a{
 .case p{
   font-size: 30px;
   width: 60%;
+  text-align: center;
 }
 
 </style>
