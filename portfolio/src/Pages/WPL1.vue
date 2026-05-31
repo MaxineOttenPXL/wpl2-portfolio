@@ -24,6 +24,7 @@ const headerTitle = "WPL1"
       <a :href="eindreflectiePdf" target="_blank">
         Eindreflectie WPL1
       </a>
+      <a href="https://www.figma.com/design/FBa450ZPJHEYkEBZKlZyod/WPL1?node-id=0-1&t=OyHrtbdG3ZMvvHZC-1" target="_blank">Figma link</a>
     </div>
   </div>
 
@@ -36,6 +37,15 @@ const headerTitle = "WPL1"
   flex-direction: column;
   align-items: center;
   margin: 2rem 0;
+}
+a{
+  font-size: 24px;
+  color: var(--white);
+  text-decoration: none;
+  padding: 1rem 2rem;
+  background-color: var(--light-green);
+  border-radius: 5px;
+  margin-top: 2rem;
 }
 .info-dash{
   display: flex;
